@@ -1,0 +1,6 @@
+teacher: top1: 0.641, top5: 0.881
+crd_temp_1: top1: 0.631, top5: 0.870
+crd_temp_10: top1: 0.624, top5: 0.864
+crd_temp_100: top1: 0.627, top5: 0.865
+crd_temp_1000: top1: 0.629, top5: 0.868
+std_baseline: top1: 0.615, top5: 0.869
